@@ -1,0 +1,9 @@
+{
+  "name": "JaLib",
+  "version_number": "1.0.1",
+  "description": "List of utilities to help making mods in Rogue Genesia",
+  "website_url": "",
+  "dependencies": [
+    "BepInEx-BepInExPack_RogueGenesia-1.0.0"
+  ]
+}
